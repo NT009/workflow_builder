@@ -1,0 +1,30 @@
+.startNodeContainer {
+  background: #fff7e2;
+  border: 1px solid black;
+  border-radius: 4px;
+  padding: 10px;
+  min-width: 150px;
+  max-width: 300px;
+}
+.startNodeTxt1 {
+  display: flex;
+  align-items: center;
+  font-size: 20px;
+  line-height: 1;
+  text-transform: capitalize;
+}
+.startNodeTxt1 svg {
+  flex-shrink: 1;
+  color: #ffbf00;
+  padding-right: 5px;
+  margin-right: 5px;
+  border-right: 1px solid black;
+}
+.startNodeTxt2 {
+  font-size: 16px;
+  margin-top: 10px;
+  padding: 5px;
+  word-wrap: break-word;
+  border-radius: 8px;
+  border: 1px solid rgb(182, 182, 182);
+}

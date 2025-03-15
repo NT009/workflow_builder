@@ -1,0 +1,21 @@
+.nodeControlPanel_container {
+  background-color: white;
+  padding: 10px;
+  border-radius: 4px;
+  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+  display: flex;
+  gap: 10px;
+}
+.nodeControlPanel_view_btn {
+  font-size: 16px;
+  color: orange;
+}
+.nodeControlPanel_edit_btn {
+  font-size: 16px;
+  color: blue;
+}
+
+.nodeControlPanel_delete_btn {
+  font-size: 16px;
+  color: red;
+}

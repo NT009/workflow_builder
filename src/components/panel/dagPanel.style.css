@@ -1,0 +1,76 @@
+.drap_panel_container {
+  background-color: white;
+  padding: 20px;
+  border-radius: 8px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  box-shadow: -2px 2px 4px rgba(0, 0, 0, 0.2);
+}
+.drap_panel_container2 {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+.drap_panel_input {
+  display: flex;
+  align-items: center;
+  font-size: 24px;
+  line-height: 1;
+  text-transform: capitalize;
+  cursor: pointer;
+  padding: 10px;
+  border: 1px solid black;
+  border-radius: 4px;
+}
+.drap_panel_input svg {
+  flex-shrink: 1;
+  padding-right: 5px;
+  margin-right: 5px;
+  border-right: 1px solid black;
+}
+.start_node {
+  background: #fff7e2;
+}
+.start_node svg {
+  color: #ffbf00;
+}
+.drap_panel_title {
+  font-size: 30px;
+  font-weight: 600;
+  line-height: 1;
+  text-transform: capitalize;
+  margin: 10px auto;
+  display: flex;
+  gap: 10px;
+  align-items: center;
+  color: #00B894;
+}
+.process_node {
+  background: #d6eaf8;
+}
+.process_node svg {
+  color: #0074ba;
+}
+.end_node {
+  background: #d4edda;
+}
+.end_node svg {
+  color: #00d26a;
+}
+.drap_panel_line {
+  height: 1px;
+  background-color: black;
+}
+.drap_panel_subtitle {
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 1;
+  text-transform: capitalize;
+  margin: 10px auto 0px auto;
+}
+.drap_panel_logo {
+  width: 30px;
+  height: 30px;
+  object-fit: contain;
+}
