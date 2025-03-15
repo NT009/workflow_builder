@@ -6,10 +6,11 @@
    from the project root terminal
    ```bash
    npm install
-4.Run application:
+   ```
+3.Run application:
 ```bash
 npm run dev
-
+```
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
