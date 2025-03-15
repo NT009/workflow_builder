@@ -3,32 +3,12 @@
 1. Clone the repository
   
 2. Install dependencies:
+   from the project root terminal
+   ```bash
    npm install
-   # or
-   yarn
-## Available Scripts
-
-In the project directory, you can run:
-
-### npm run dev or yarn dev
-
-Runs the app in development mode.
-Open http://localhost:5173 to view it in your browser.
-
-The page will reload when you make changes.
-You may also see any lint errors in the console.
-
-### npm run build or yarn build
-
-Builds the app for production to the dist folder.
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include hashes.
-Your app is ready to be deployed!
-
-### npm run preview or yarn preview
-
-Locally preview the production build after running the build command.
+4.Run application:
+```bash
+npm run dev
 
 # React + TypeScript + Vite
 
